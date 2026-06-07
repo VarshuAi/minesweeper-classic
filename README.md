@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Grid-based classic puzzle with right-click flagging support.
+  name: minesweeper-classic version: 1.0 type: Repository author: VarshuAi description: >   Grid-based classic puzzle with right-click flagging support. primary_tech: CSS
 primary_tech: CSS
 ```
 
